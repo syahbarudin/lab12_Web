@@ -96,7 +96,7 @@ include_once 'footer.php';
 
 > Hasil Output halaman `login.php` :
 
-![Screenshot (247)] [gambar](https://github.com/syahbarudin/lab12_Web/assets/146621192/135a2543-8ed2-423d-9622-8a4b8a1a23af)
+![Screenshot (247)](https://github.com/syahbarudin/lab12_Web/assets/146621192/135a2543-8ed2-423d-9622-8a4b8a1a23af)
 
 
 > Result :
